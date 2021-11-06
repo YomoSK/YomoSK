@@ -2,9 +2,9 @@
 
 - ❤️ JavaScript
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YomoSK&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YomoSK&count_private=true&show_icons=true&theme=onedark&hide=issues,prs,stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YomoSK)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YomoSK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **YomoSK/YomoSK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
