@@ -1,6 +1,7 @@
-### Yomo - UI/UX
+<h1 align="center">Yomo</h1>
 
-- ❤️ JavaScript
+####UI/UX Designer, Programmer
+- ❤️ `.js`
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YomoSK&count_private=true&show_icons=true&theme=onedark&hide=issues,prs,stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
