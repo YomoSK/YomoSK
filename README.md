@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yomo - UI/UX
 
 - ❤️ JavaScript
 
